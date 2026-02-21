@@ -1,0 +1,8 @@
+{
+    "editor.codeActions.triggerOnFocusChange": true,
+    "editor.quickSuggestions": {
+        "comments": "on",
+        "strings": "on"
+    },
+    "editor.lightbulb.enabled": "on"
+}
